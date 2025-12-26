@@ -1,6 +1,6 @@
 # RUGS: Relightable Unity Gaussian Splatting
 
-This project is based on [RUGS](https://github.com/ReV3nus/R).
+This project is based on [RUGS](https://github.com/ReV3nus/RUGS).
 
 
 ## Steps
