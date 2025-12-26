@@ -7,8 +7,7 @@
 /images/*
 /Shot-*.png
 
-/Assets/GaussianAssets/*
-/Assets/GaussianAssets.meta
+
 /Assets/Models~/*
 /Library/*
 /Logs/*
@@ -16,8 +15,7 @@
 /UserSettings/*
 /obj/*
 
-/projects/**/Assets/GaussianAssets/*
-/projects/**/Assets/GaussianAssets.meta
+/projects/**/Assets/GaussianAssets/
 /projects/**/Assets/Models~/*
 /projects/**/Library/*
 /projects/**/Logs/*
